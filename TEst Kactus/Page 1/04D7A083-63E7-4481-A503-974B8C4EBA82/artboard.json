@@ -48,6 +48,14 @@
     {
       "class": "text",
       "id": "DE76526A-BA5F-4A02-88BE-317882C01C00"
+    },
+    {
+      "class": "text",
+      "id": "AB1EA464-D2E2-4058-95F3-2DC8B45CF0DE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "04A3F03F-EF1D-4489-B28A-E88D46220A75"
     }
   ],
   "name": "Mobile",
