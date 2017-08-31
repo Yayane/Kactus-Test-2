@@ -26,7 +26,7 @@
     "y": -171
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,6 +44,10 @@
     {
       "class": "shapeGroup",
       "id": "CFA728B1-EF87-4408-A312-58FEC58EBBBD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7FC57FDD-D3E3-4788-9FF2-F8D3A5472A3E"
     }
   ],
   "name": "Mobile Copy",
